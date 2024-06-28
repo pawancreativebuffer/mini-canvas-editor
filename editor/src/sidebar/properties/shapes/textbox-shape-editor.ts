@@ -83,7 +83,8 @@ export function textShapeEditor(manager: UpdateManager<MceTextbox>): Destroyable
 				Tahoma: 'tahoma',
 				Georgia: 'georgia',
 				'Courier New': 'courier new',
-				Serif: 'serif'
+				Serif: 'serif',
+				Pawan: 'pawan'
 			},
 			manager.bind(
 				o => o.fontFamily,
